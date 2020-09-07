@@ -1,5 +1,5 @@
-# gads_gcp
-My name is BANIGANTE Kpapou. this is my repository Googloud Plateforms Plateforme
+# GADS PROJECTS
+My name is BANIGANTE Kpapou. this is my repository Google cloud Plateforms Plateforme
 learning projetct.
 ## project structure
 there are two folders:
