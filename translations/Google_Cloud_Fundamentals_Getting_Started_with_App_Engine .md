@@ -1,6 +1,6 @@
 #Google Cloud Fundamentals: Getting Started with App Engine
 
-[lab link is here](https://googlepluralsight.qwiklabs.com/focuses/10763035?parent=lti_session)
+[lab link  to qwikslab is here](https://googlepluralsight.qwiklabs.com/focuses/10763035?parent=lti_session)
 
 # Overview
 In this lab, you create and deploy a simple App Engine application using a virtual environment in the Google Cloud Shell.

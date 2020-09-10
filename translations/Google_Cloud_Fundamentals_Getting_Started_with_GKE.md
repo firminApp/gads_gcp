@@ -10,4 +10,4 @@ In this lab, you learn how to perform the following tasks:
 
 - Deploy and manage Docker containers using kubectl.
 
-[Link to the lab](https://googlepluralsight.qwiklabs.com/focuses/10750085?parent=lti_session)
+[ lab Link to qwikslab is hereb](https://googlepluralsight.qwiklabs.com/focuses/10750085?parent=lti_session)
